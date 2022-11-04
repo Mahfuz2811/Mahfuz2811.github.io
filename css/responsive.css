@@ -1,0 +1,46 @@
+@media only screen and (max-width: 600px) {
+    
+    .input-type{
+      border-radius: 25px !important;
+    }
+    
+    .my-input{
+      border-radius: 25px !important;
+    }
+
+    .footer-logo{
+      margin: 0 auto;
+    }
+
+    .all-right{
+      text-align: center;
+    }
+
+    .mb-5{
+      margin-bottom: 10 !important;
+      text-align: center;
+    }
+
+    .right-section{
+      float: initial !important;
+    }
+
+    .foote_bottom_ul_amrc li a {
+      margin: 0 3px;
+    }
+
+    .foote_bottom_ul_amrc {
+      margin-right: 0;
+      margin-left: 0;
+    }
+
+}
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+  .foote_bottom_ul_amrc li a {
+    margin: 0 5px;
+  }
+}
